@@ -1,0 +1,19 @@
+Fase;Ronda;EquipoL;GolesL;GolesV;EquipoV
+A;1;Argentina;1;2;Arabia Saudita
+A;1;Polonia;0;0;México
+A;1;Argentina;2;0;México
+A;1;Arabia Saudita;0;2;Polonia
+A;1;Polonia;0;2;Argentina
+A;1;Arabia Saudita;1;2;México
+A;2;Dinamarca;0;0;Tunez
+A;2;Francia;2;1;Dinamarca
+A;2;Tunez;0;1;Australia
+A;2;Tunez;1;0;Francia
+A;2;Australia;1;0;Dinamarca
+A;2;Francia;4;1;Australia
+B;3;Marruecos;0;0;Croacia
+B;3;Bélgica;1;0;Canadá
+B;3;Bélgica;0;2;Marruecos
+B;3;Croacia;4;1;Canadá
+B;3;Croacia;0;0;Bélgica
+B;3;Canadá;1;2;Marruecos

@@ -1,0 +1,25 @@
+Participante;EquipoL;GanaL;Empata;GanaV;EquipoV
+Mariana;Argentina;X;;;Arabia Saudita
+Mariana;Polonia;;X;;México
+Mariana;Argentina;X;;;México
+Mariana;Arabia Saudita;;;X;Polonia
+Mariana;Polonia;;;X;Argentina
+Mariana;Arabia Saudita;;;X;México
+Pedro;Argentina;X;;;Arabia Saudita
+Pedro;Polonia;;;X;México
+Pedro;Argentina;X;;;México
+Pedro;Arabia Saudita;;X;;Polonia
+Pedro;Polonia;;;X;Argentina
+Pedro;Arabia Saudita;;;X;México
+Pedro;Dinamarca;;;X;Tunez
+Pedro;Francia;X;;;Dinamarca
+Pedro;Tunez;;;X;Australia
+Pedro;Tunez;X;;;Francia
+Pedro;Australia;;X;;Dinamarca
+Pedro;Francia;X;;;Australia
+Ricardo;Marruecos;X;;;Croacia
+Ricardo;Bélgica;X;;;Canadá
+Ricardo;Bélgica;;;X;Marruecos
+Ricardo;Croacia;X;;;Canadá
+Ricardo;Croacia;;X;;Bélgica
+Ricardo;Canadá;;;X;Marruecos
