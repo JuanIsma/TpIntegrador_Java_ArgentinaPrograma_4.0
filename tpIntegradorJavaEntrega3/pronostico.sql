@@ -46,19 +46,5 @@ insert into pronostico values('Mariana','A','1','Argentina','X','','','Arabia Sa
 
  
 
- select Ronda ,  count(*)
-  from pronostico
-  group by  Ronda;
-
- select* from pronostico  where Ronda='1';
  
-  select* from pronostico  where Ronda='2';
-  
-   select* from pronostico  where Ronda='3';
- 
-
-
-
-
-   DROP table pronostico;
   
